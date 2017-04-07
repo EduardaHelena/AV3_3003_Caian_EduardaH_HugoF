@@ -1,0 +1,6 @@
+c:\users\eduarda.costa\documents\visual studio 2015\Projects\AV3_3003_Caian_EduardaH_HugoF\AV3_3003_Caian_EduardaH_HugoF\bin\Debug\AV3_3003_Caian_EduardaH_HugoF.exe.config
+c:\users\eduarda.costa\documents\visual studio 2015\Projects\AV3_3003_Caian_EduardaH_HugoF\AV3_3003_Caian_EduardaH_HugoF\obj\Debug\AV3_3003_Caian_EduardaH_HugoF.csprojResolveAssemblyReference.cache
+c:\users\eduarda.costa\documents\visual studio 2015\Projects\AV3_3003_Caian_EduardaH_HugoF\AV3_3003_Caian_EduardaH_HugoF\bin\Debug\AV3_3003_Caian_EduardaH_HugoF.exe
+c:\users\eduarda.costa\documents\visual studio 2015\Projects\AV3_3003_Caian_EduardaH_HugoF\AV3_3003_Caian_EduardaH_HugoF\bin\Debug\AV3_3003_Caian_EduardaH_HugoF.pdb
+c:\users\eduarda.costa\documents\visual studio 2015\Projects\AV3_3003_Caian_EduardaH_HugoF\AV3_3003_Caian_EduardaH_HugoF\obj\Debug\AV3_3003_Caian_EduardaH_HugoF.exe
+c:\users\eduarda.costa\documents\visual studio 2015\Projects\AV3_3003_Caian_EduardaH_HugoF\AV3_3003_Caian_EduardaH_HugoF\obj\Debug\AV3_3003_Caian_EduardaH_HugoF.pdb
